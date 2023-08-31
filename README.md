@@ -1,2 +1,2 @@
 # smooth-image-scroll
-Created with CodeSandbox
+implementation of smooth scroll of images. (courtesy of hyperplexed)
